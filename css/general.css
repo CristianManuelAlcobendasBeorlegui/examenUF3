@@ -1,9 +1,19 @@
+/**
+ * README: En este fichero se definen todos los estilos los cuales queramos
+ * que todas las páginas web tengan.
+ * */
+
 body {
     background-color: rgb(216, 216, 216);
     color: rgb(0, 0, 0);
 }
 
+section {
+    margin-bottom: 5rem;
+}
+
 .grid {
+    margin-bottom: 2rem;
     display: grid;
     grid-template-rows: auto auto;
     grid-template-columns: auto;
@@ -13,8 +23,4 @@ body {
         grid-template-columns: 25% auto;
         gap: 1rem;
     }
-}
-
-section {
-    margin-bottom: 5rem;
 }

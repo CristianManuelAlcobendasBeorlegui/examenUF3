@@ -1,6 +1,14 @@
 # ChangeLog
 En este fichero se documentan todos los cambios importantes que se han aplicado al proyecto.
 
+## [v1.7]
+
+### Descripción
+Se detecta mejora en como está distribuido el código CSS del fichero `css/general.css`.
+
+### Modifica 
+- Estructura del código CSS del fichero `css/general.css`.
+
 ## [v1.6]
 
 ### Descripción
