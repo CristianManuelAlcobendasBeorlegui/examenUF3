@@ -1,6 +1,15 @@
 # ChangeLog
 En este fichero se documentan todos los cambios importantes que se han aplicado al proyecto.
 
+## [v1.6]
+
+### Descripción
+Mirando el contenido HTML del fichero `problemes.html` se detecta una mejora para la accesibilidad de la web haciendo uso de los atributos **ARIA** y roles.
+
+### Añade
+- Atributos ARIA a las etiquetas.
+- Roles restantes.
+
 ## [v1.5.1]
 
 ### Descripción
