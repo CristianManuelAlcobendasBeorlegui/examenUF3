@@ -1,6 +1,14 @@
 # ChangeLog
 En este fichero se documentan todos los cambios importantes que se han aplicado al proyecto.
 
+## [v1.5.1]
+
+### Descripción
+Mirando el contenido de la web se detectan enlaces con texto `aqui`, lo cual es poco descriptivo/accesible.
+
+### Modifica
+- Los textos `aqui` de los enlaces por información más descriptiva.
+
 ## [v1.5]
 
 ### Descripción
