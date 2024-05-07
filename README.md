@@ -32,3 +32,6 @@
 > #### (1 punt)
 
 - Afegiu al document de text anterior (el de la carpeta /doc) els vostres raonaments sobre la usabilitat d'aquesta pàgina tenint en compte els aspectes compartits a classe (fins a 3 aspectes màxim). Per exemple, què sobra, què falta, què tindríeu en compte, com ho faríeu, sempre des del vostre punt de vista raonant la resposta. ***La valoració serà segons la coherència, exhaustivitat i argumentació de la resposta.***
+
+## Importante
+Todos los cambios del projecto y su respectiva explicación del "¿Por qué?" se implementan quedan reflejados en el fichero [CHANGELOG.md](CHANGELOG.md).
