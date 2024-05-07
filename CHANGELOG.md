@@ -1,6 +1,16 @@
 # ChangeLog
 En este fichero se documentan todos los cambios importantes que se han aplicado al proyecto.
 
+## [v1.3]
+
+### Descripción
+Después de realizar otra prueba con la herramienta **Lighthouse**, el porcentage de accessibilidad sigue siendo menor al 90%.
+
+El motivo radica en que la página `problemes.html` no incluye una etiqueta `<title>` en su cabecera.
+
+### Añade
+- Etiqueta `<title>` a la página `problemes.html`.
+
 ## [v1.2]
 
 ### Descripción
