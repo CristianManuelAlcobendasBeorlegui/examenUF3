@@ -1,6 +1,21 @@
 # ChangeLog
 En este fichero se documentan todos los cambios importantes que se han aplicado al proyecto.
 
+## [v1.5]
+
+### Descripción
+Mirando como se encuentra desarrollado el fichero `problemes.html` se detecta varias formas de programar que han quedado obsoletas o prácticas que ya no se deberían seguir usando.
+
+Esta versión aplica cambios a las etiquetas HTML para que hagan uso de las etiquetas semánticas.
+
+### Añade
+- Estilos para dar un margen inferior de `5rem` a todas las `<section>`.
+- Estilos para crear una tabla haciendo uso de `grid`.
+- Roles a etiquetas
+
+### Modifica
+- Etiquetas DIV poco informativas a etiquetas semánticas.
+
 ## [v1.4]
 
 ### Descripción
