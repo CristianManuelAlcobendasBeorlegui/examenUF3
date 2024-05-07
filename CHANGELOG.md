@@ -1,10 +1,20 @@
 # ChangeLog
 En este fichero se documentan todos los cambios importantes que se han aplicado al proyecto.
 
+## [v1.4]
+
+### Descripción
+Realizando otra auditoria con **Lighthouse** se detecta que el porcentaje de accessibilidad es superior al 90% pero no llega al 100%.
+
+El último problema para el análisis se encuentra en la etiqueta `<html>` de la página `problemes.html` la cual no incluye un atributo `lang` indicando el idioma en el que está la página.
+
+### Añade
+- Atributo `lang` a la etiqueta `<html>` de la página `problemes.html`.
+
 ## [v1.3]
 
 ### Descripción
-Después de realizar otra prueba con la herramienta **Lighthouse**, el porcentage de accessibilidad sigue siendo menor al 90%.
+Después de realizar otra prueba con la herramienta **Lighthouse**, el porcentaje de accessibilidad sigue siendo menor al 90%.
 
 El motivo radica en que la página `problemes.html` no incluye una etiqueta `<title>` en su cabecera.
 
